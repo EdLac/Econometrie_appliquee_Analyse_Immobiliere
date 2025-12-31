@@ -69,8 +69,8 @@ Ouvrir le notebook :
 
 Les résultats dépendent :
 
-1 : du split train/test et de la seed (si utilisée),
-2 : des versions des packages,
+1 : du split train/test et de la seed (si utilisée),  
+2 : des versions des packages,  
 3 : de la disponibilité du fichier de données au bon chemin.
 
 ## Licence
